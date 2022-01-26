@@ -1,1 +1,2 @@
-# template
+# Simple Web Site
+This site displays a poem called *The November Fog of London* by [Henry Luttrell](https://www.britannica.com/biography/Henry-Luttrell), followed by an image by [Photos_frompasttofuture](https://unsplash.com/@photos_frompasttofuture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) from [Unsplash](https://unsplash.com/s/photos/london-fog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). It is responsive and can be viewed on any device. 
