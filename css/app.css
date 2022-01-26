@@ -85,12 +85,16 @@ a:focus {
         height: 100%;
     }
 
-    .image, article {
-        margin: auto 50px;
+    article {
+        margin: 50px 50px;
     }
 
     img {
         max-width: 600px;
+    }
+
+    .image {
+        margin-right: 50px;
     }
 }
 
